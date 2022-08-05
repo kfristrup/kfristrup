@@ -1,0 +1,4 @@
+- Hi, I am Kurt Fristrup
+- My interests include sensory ecology, national parks, bioacoustics, ecological monitoring, and evolutionary theory.
+- I just completed my first NetLogo project (hosted here). I am starting to learn Julia.
+- You can email me at first dot last at colostate dot edu
