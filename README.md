@@ -1,4 +1,4 @@
-- Hi, I am Kurt Fristrup
+- Hi, I am Kurt Fristrup. I have worked at Woods Hole Oceanographic Institution, the Cornell Laboratory of Ornithology, and the National Park Service Division of Natural Sounds and Night Skies.
 - My interests include sensory ecology, national parks, bioacoustics, ecological monitoring, and evolutionary theory.
 - I just completed my first NetLogo project (hosted here). I am starting to learn Julia.
 - You can email me at first dot last at colostate dot edu
